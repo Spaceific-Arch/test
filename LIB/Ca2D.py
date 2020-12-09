@@ -10,6 +10,7 @@ import platform
 #import keyboard
 import msvcrt
 #popo
+#lopo
 
 print(np.version.version)
 
