@@ -1,3 +1,4 @@
+#fskdjfhks
 def processList(_func, _list, *args):
 	"""Iterates trough input list and aplies a function to each item of the list
 
